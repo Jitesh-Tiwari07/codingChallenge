@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0007-reverse-integer) |
+| [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -13,8 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
+| [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
