@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
+## Sorting
+|  |
+| ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 <!---LeetCode Topics End-->
