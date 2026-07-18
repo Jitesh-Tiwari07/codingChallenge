@@ -21,35 +21,35 @@ public:
         root = getNode();
     }
 
-    void insert(int num) {
-        string s = to_string(num);
-        triNode* node = root;
+    void insert(string word) {
+        
+        triNode* crawler = root;
 
-        for (char ch : s) {
+        for (char ch : word) {
             int idx = ch - '0';
 
-            if (node->children[idx] == NULL)
-                node->children[idx] = getNode();
+            if (crawler->children[idx] == NULL)
+                crawler->children[idx] = getNode();
 
-            node = node->children[idx];
+            crawler = crawler->children[idx];
         }
 
-        node->isEndOfWord = true;
+        crawler->isEndOfWord = true;
     }
 
-    int search(int num) {
-        string s = to_string(num);
-        triNode* node = root;
+    int search(string word) {
+        
+        triNode* crawler = root;
         int cnt = 0;
 
-        for (char ch : s) {
+        for (char ch : word) {
             int idx = ch - '0';
 
-            if (node->children[idx] == NULL)
+            if (crawler->children[idx] == NULL)
                 break;
 
             cnt++;
-            node = node->children[idx];
+            crawler = crawler->children[idx];
         }
 
         return cnt;
@@ -58,12 +58,13 @@ public:
     int longestCommonPrefix(vector<int>& arr1, vector<int>& arr2) {
 
         for (int x : arr1)
-            insert(x);
+
+            insert(to_string(x));
 
         int ans = 0;
 
         for (int x : arr2)
-            ans = max(ans, search(x));
+            ans = max(ans, search(to_string(x)));
 
         return ans;
     }
