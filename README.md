@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
@@ -60,6 +62,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
