@@ -1,6 +1,6 @@
 class Solution {
 public:
-    static bool cmp(pair<char,int>a,pair<char,int>b){
+    static bool cmp(pair<int,int>a,pair<int,int>b){
         if(a.second==b.second){
             return a.first>b.first;
             
