@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0049-group-anagrams) |
 | [0208-implement-trie-prefix-tree](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0299-bulls-and-cows) |
 | [0451-sort-characters-by-frequency](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
