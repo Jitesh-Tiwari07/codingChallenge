@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0648-replace-words](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0720-longest-word-in-dictionary) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
+| [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Hash Table
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0451-sort-characters-by-frequency) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
