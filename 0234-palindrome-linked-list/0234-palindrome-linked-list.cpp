@@ -15,18 +15,13 @@ public:
     bool helper(ListNode* head) {
         if (head == NULL)
             return true;
-
         if (!helper(head->next))
             return false;
-
         if (curr->val != head->val)
             return false;
-
         curr = curr->next;
-
         return true;
     }
-
     bool isPalindrome(ListNode* head) {
         curr = head;
         return helper(head);
