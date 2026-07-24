@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
@@ -101,4 +102,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0287-find-the-duplicate-number) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Jitesh-Tiwari07/codingChallenge/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
